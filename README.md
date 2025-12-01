@@ -24,3 +24,20 @@ número al principio del array. Luego, usa push() para agregar un número al fin
 ## Ejercicio 6: Buscar y Reemplazar
 Dado un array de nombres, usa indexOf() para encontrar el índice de un nombre específico. Si el
 nombre existe, usa fill() para reemplazarlo por otro nombre en ese índice.
+
+## Ejercicio 7: Unir y Filtrar
+Dado un array de strings, usa join() para concatenar todos los elementos en una sola cadena,
+separándolos con una coma. Luego, usa filter() para obtener todos los elementos que contienen la
+letra "a".
+
+## Ejercicio 8: Sumar y Comprobar
+Dado un array de números, usa reduce() para obtener la suma total de todos los números. Luego,
+usa every() para comprobar si todos los números en el array son mayores a 0.
+
+## Ejercicio 9: Buscar Ítems con Condición
+Dado un array de objetos, donde cada objeto tiene una propiedad precio, usa findIndex() para
+encontrar el índice del primer objeto cuyo precio sea mayor a 100.
+
+## Ejercicio 10: Transformar y Verificar
+Dado un array de números, usa map() para crear un nuevo array donde cada número se divide
+entre 2. Luego, usa includes() para verificar si el número 5 está en el array resultante.
