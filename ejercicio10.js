@@ -1,13 +1,13 @@
-array = [2, 4, 6, 8, 10, 3, 45];
+let array = [2, 4, 10, 15, 7, 8];
 
-const div = array.map(num => num/2)
-console.log(div)
+const div = array.map(num => num/2);
+console.log(div);
 
-five = div.includes(5)
+let five = div.includes(5);
 
-if (five = true){
+if (five === true){
     console.log("el 5 está en el array")
 }
-else{
+else if (five === false){
     console.log("el 5 no está en el array")
 }

@@ -41,3 +41,23 @@ encontrar el índice del primer objeto cuyo precio sea mayor a 100.
 ## Ejercicio 10: Transformar y Verificar
 Dado un array de números, usa map() para crear un nuevo array donde cada número se divide
 entre 2. Luego, usa includes() para verificar si el número 5 está en el array resultante.
+
+## Ejercicio 11: Transformación y Búsqueda
+Dado un array de nombres, crea un nuevo array donde todos los nombres estén en mayúsculas.
+Luego, encuentra el primer nombre que tenga más de 6 caracteres.
+
+## Ejercicio 12: Ordenar y Modificar
+Dado un array de edades, ordénalas de mayor a menor. Después, elimina el elemento más joven y
+agrega una nueva edad al final del array.
+
+## Ejercicio 13: Comprobación y Filtrado
+Dado un array de números, verifica si todos los números son positivos. Luego, crea un nuevo array
+que contenga solo los números pares de la lista original.
+
+## Ejercicio 14: Suma y Verificación
+Dado un array de precios, suma todos los valores y verifica si la suma total es mayor que 500. Si lo
+es, crea un nuevo array con los precios que sean menores a 100.
+
+## Ejercicio 15: Extracción y Unión
+Dado un array de colores, crea una nueva lista con los primeros tres colores. Luego, crea una nueva
+lista que combine esa lista con una lista de colores secundarios.
